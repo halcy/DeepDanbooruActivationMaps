@@ -9,3 +9,5 @@ Some example outputs:
 ![example output: barefoot](https://raw.githubusercontent.com/halcy/DeepDanbooruActivationMaps/master/example_barefoot.png)
 
 One somewhat accidental use of this is automatic censoring of images by blurring out regions that correspond to explicit / questionable tags. Code that does this can be found [in this notebook](https://github.com/halcy/DeepDanbooruActivationMaps/blob/master/DeepDanbooru-ActivationMaps-Censorship.ipynb) (warning: includes output, which is to say, a censored explicit image).
+
+The code is currently very slow. Suggestions for how to improve it very welcome. I'm not super good with tensorflow.
