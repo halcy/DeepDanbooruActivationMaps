@@ -10,4 +10,4 @@ Some example outputs:
 
 One somewhat accidental use of this is automatic censoring of images by blurring out regions that correspond to explicit / questionable tags. Code that does this can be found [in this notebook](https://github.com/halcy/DeepDanbooruActivationMaps/blob/master/DeepDanbooru-ActivationMaps-Censorship.ipynb) (warning: includes output, which is to say, a censored explicit image).
 
-The code is currently very slow. Suggestions for how to improve it very welcome. I'm not super good with tensorflow.
+The codes speed has been improved somewhat, but suggestions for how to speed it up more very welcome.
