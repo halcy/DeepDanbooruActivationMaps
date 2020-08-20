@@ -1,4 +1,4 @@
-# This repository has been superceded by https://github.com/halcy/AnimeFaceNotebooks
+# This repository has been superdeded by https://github.com/halcy/AnimeFaceNotebooks
 
 # DeepDanbooru Activation Maps
 
